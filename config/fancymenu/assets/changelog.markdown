@@ -3,6 +3,7 @@
 ### v3.2.2
 ^^^
 --- 
+- Added Quest Translation to Brazilian Portuguese
 - Updated to Create 6
 - Added Refined Storage as replacement mod for Tom's Simple Storage, with crafting recipes to convert old to new.
 - Added new system for Building Shop Buildings
